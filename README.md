@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-banner/banner.png" alt="Welcome Banner" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Sameer Saxena</h1>
 
 <p align="center">
