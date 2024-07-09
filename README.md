@@ -1,3 +1,4 @@
+<img src="./Banner2.png" />
 <h1 align="center">👋 Hi, I'm Sameer Saxena</h1>
 
 <p align="center">
