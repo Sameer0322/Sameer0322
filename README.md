@@ -60,17 +60,6 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   <img src="https://github-readme-stats.vercel.app/api?username=Sameer0322&show_icons=true&theme=radical" alt="Sameer Saxen's GitHub Stats" />
 </p>
 
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer0322&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🗓️ Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sameer0322&theme=github-compact" alt="Contribution Graph" />
-</p>
 
 ### 🧩 Repo Stats
 
