@@ -17,32 +17,43 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
-</p>
-
 ## 🧑‍💻 About Me
 
 I'm an enthusiastic **Full-Stack Developer** with a strong passion for building responsive and user-friendly web applications. Currently pursuing my degree at **Pranveer Singh Institute of Technology**, I'm on a mission to leverage technology to solve real-world problems.
 
+
+
 ## 🚀 Skills
 
-- **Programming Languages**: Python, Java, C, JavaScript, HTML, CSS, SQL
-- **Frameworks**: React, Node.js, Express.js, Socket.IO
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Command Prompt, Jupyter Notebook
-- **Libraries**: NumPy, Pandas, OpenCV, TensorFlow
-- **Soft Skills**: Strategic Communication, Verbal Communication, Interpersonal Skills
+- **Programming Languages**: 
+  - 🐍 Python 
+  - ☕ JAVA 
+  - 🌐 HTML 
+  - 🎨 CSS 
+  - 🖥️ JavaScript 
+- **Frameworks and Libraries**: 
+  - ⚛️ React 
+  - 🌬️ Tailwind 
+  - 📦 Chakra UI 
+  - 🟩 Node 
+  - 🚀 ExpressJS 
+- **Databases**: 
+  - 🍃 MongoDB 
+  - 🐬 MySQL 
+- **Other Technologies**: 
+  - 🌐 Socket.IO 
+  - 🖼️ Tkinter 
+- **Tools**: 
+  - 🐙 Git 
+  - 🐱 GitHub 
+  - 💻 VS Code 
+  - 🚀 Netlify 
+  - 🌐 Render 
+  - 🎨 Canva 
+  - 📸 Lightroom 
+  - 📱 Snapseed 
 
-## 📚 Education
 
-- **Pranveer Singh Institute of Technology College** (2021-2025) | CGPA: 7.9
-- **Mercy Memorial School** | Intermediate: 89.4% | High School: 89.0%
 
 ## 🌟 Achievements
 
