@@ -2,17 +2,17 @@
 <h1 align="center">👋 Hi, I'm Sameer Saxena</h1>
 
 <p align="center">
-  <a href="http://sameersaxenaportfolio.netlify.app/" style="text-decoration: none; color: #0366d6; font-weight: bold; margin-right: 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Portfolio" style="vertical-align: middle; margin-right: 5px;" />🌐 Portfolio
+  <a href="http://sameersaxenaportfolio.netlify.app/" style="text-decoration: none; color: #0366d6; font-weight: bold; margin-right: 20px; font-size: 1.2em;">
+    🌐 Portfolio
   </a>
-  <a href="https://www.linkedin.com/in/sameer-saxena-428215218" style="text-decoration: none; color: #0077b5; font-weight: bold; margin-right: 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;" />💼 LinkedIn
+  <a href="https://www.linkedin.com/in/sameer-saxena-428215218" style="text-decoration: none; color: #0077b5; font-weight: bold; margin-right: 20px; font-size: 1.2em;">
+    💼 LinkedIn
   </a>
-  <a href="https://leetcode.com/u/Sameer__22/" style="text-decoration: none; color: #25d366; font-weight: bold; margin-right: 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" alt="LeetCode" style="vertical-align: middle; margin-right: 5px;" />🔍 LeetCode
+  <a href="https://leetcode.com/u/Sameer__22/" style="text-decoration: none; color: #25d366; font-weight: bold; margin-right: 20px; font-size: 1.2em;">
+    🔍 LeetCode
   </a>
-  <a href="mailto:saxenasameer022@gmail.com" style="text-decoration: none; color: #d14836; font-weight: bold;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="vertical-align: middle; margin-right: 5px;" />✉️ Contact
+  <a href="mailto:saxenasameer022@gmail.com" style="text-decoration: none; color: #d14836; font-weight: bold; font-size: 1.2em;">
+    ✉️ Contact
   </a>
 </p>
 
