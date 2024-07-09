@@ -54,17 +54,10 @@ I'm an enthusiastic **Full-Stack Developer** with a strong passion for building 
   - 📱 Snapseed 
 
 
-
-## 🌟 Achievements
-
-- **5th place** among 300 teams in the ACPC Hackathon at ABES College
-- **5 Star Coder** on Hackerrank
-- Solved **300+ problems** on LeetCode
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer0322&show_icons=true&theme=radical" alt="Sameer Saxena's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer0322&show_icons=true&theme=radical" alt="Sameer Saxen's GitHub Stats" />
 </p>
 
 ### 💻 Programming Languages
